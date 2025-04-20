@@ -1,32 +1,33 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>宠物医院管理系统</title>
+    <title>Pets Clinic</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <nav class="navbar">
-      <button class="nav-btn active" onclick="showPage('pets')">宠物</button>
-      <button class="nav-btn" onclick="showPage('doctors')">医生</button>
+      <button class="nav-btn active" onclick="showPage('pets')">Pets</button>
+      <button class="nav-btn" onclick="showPage('doctors')">Doctors</button>
     </nav>
 
     <div id="pets-page" class="page active-page">
-      <h1>宠物列表</h1>
+      <h1>Pets</h1>
       <div class="search-box">
         <input
           type="text"
           id="petSearch"
-          placeholder="搜索宠物..."
+          placeholder="Search a pet..."
           onkeyup="filterTable('pets')"
         />
       </div>
       <table id="pet-table">
         <thead>
           <tr>
-            <th>名字</th>
-            <th>年龄</th>
-            <th>性别</th>
-            <th>物种</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Gender</th>
+            <th>Species</th>
+            <th>OwnerID</th>
           </tr>
         </thead>
         <tbody id="pet-table-body"></tbody>
@@ -34,21 +35,25 @@
     </div>
 
     <div id="doctors-page" class="page">
-      <h1>医生列表</h1>
+      <h1>Doctors</h1>
       <div class="search-box">
         <input
           type="text"
           id="doctorSearch"
-          placeholder="搜索医生..."
+          placeholder="Search a doctor..."
           onkeyup="filterTable('doctors')"
         />
       </div>
       <table id="doctor-table">
         <thead>
           <tr>
-            <th>姓名</th>
-            <th>科室</th>
-            <th>工号</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Specialisation</th>
+            <th>Phone</th>
+            <th>Email</th>
+            <th>YearsOfExperience</th>
+            <th>DepartmentID</th>
           </tr>
         </thead>
         <tbody id="doctor-table-body"></tbody>
