@@ -1,0 +1,12 @@
+CREATE INDEX idx_owner_phone ON Owner(Phone);
+CREATE INDEX idx_owner_email ON Owner(Email);
+CREATE INDEX idx_pet_owner ON Pet(OwnerID);
+CREATE INDEX idx_pet_name ON Pet(Name);
+CREATE INDEX idx_doctor_department ON Doctor(DepartmentID);
+CREATE INDEX idx_doctor_lastname ON Doctor(LastName);
+CREATE INDEX idx_visit_pet ON VisitRecord(PetID);
+CREATE INDEX idx_visit_doctor ON VisitRecord(DoctorID);
+CREATE INDEX idx_visit_date ON VisitRecord(VisitDate);
+CREATE INDEX idx_history_pet ON MedicalHistory(PetID);
+CREATE INDEX idx_history_date ON MedicalHistory(DateDiagnosed);
+CREATE INDEX idx_department_name ON Department(DepartmentName);

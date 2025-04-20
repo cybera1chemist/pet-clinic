@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>宠物医院管理系统</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <nav class="navbar">
+      <button class="nav-btn active" onclick="showPage('pets')">宠物</button>
+      <button class="nav-btn" onclick="showPage('doctors')">医生</button>
+    </nav>
+
+    <div id="pets-page" class="page active-page">
+      <h1>宠物列表</h1>
+      <div class="search-box">
+        <input
+          type="text"
+          id="petSearch"
+          placeholder="搜索宠物..."
+          onkeyup="filterTable('pets')"
+        />
+      </div>
+      <table id="pet-table">
+        <thead>
+          <tr>
+            <th>名字</th>
+            <th>年龄</th>
+            <th>性别</th>
+            <th>物种</th>
+          </tr>
+        </thead>
+        <tbody id="pet-table-body"></tbody>
+      </table>
+    </div>
+
+    <div id="doctors-page" class="page">
+      <h1>医生列表</h1>
+      <div class="search-box">
+        <input
+          type="text"
+          id="doctorSearch"
+          placeholder="搜索医生..."
+          onkeyup="filterTable('doctors')"
+        />
+      </div>
+      <table id="doctor-table">
+        <thead>
+          <tr>
+            <th>姓名</th>
+            <th>科室</th>
+            <th>工号</th>
+          </tr>
+        </thead>
+        <tbody id="doctor-table-body"></tbody>
+      </table>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

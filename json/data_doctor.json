@@ -1,0 +1,92 @@
+[
+  {
+    "FirstName": "Olivia",
+    "LastName": "Smith",
+    "Specialisation": "Small Animal Internal Medicine",
+    "Phone": "415-555-1234",
+    "Email": "olivia.smith@vetclinic.com",
+    "YearsOfExperience": 12,
+    "DepartmentID": 1
+  },
+  {
+    "FirstName": "Liam",
+    "LastName": "Johnson",
+    "Specialisation": "Small Animal Surgery",
+    "Phone": "408-555-5678",
+    "Email": "liam.johnson@vetclinic.com",
+    "YearsOfExperience": 15,
+    "DepartmentID": 2
+  },
+  {
+    "FirstName": "Emma",
+    "LastName": "Davis",
+    "Specialisation": "Veterinary Dermatology",
+    "Phone": "510-555-9012",
+    "Email": "emma.davis@vetclinic.com",
+    "YearsOfExperience": 9,
+    "DepartmentID": 4
+  },
+  {
+    "FirstName": "Noah",
+    "LastName": "Martinez",
+    "Specialisation": "Small Animal Emergency Care",
+    "Phone": "650-555-3456",
+    "Email": "noah.martinez@vetclinic.com",
+    "YearsOfExperience": 11,
+    "DepartmentID": 3
+  },
+  {
+    "FirstName": "Ava",
+    "LastName": "Lee",
+    "Specialisation": "Veterinary Ophthalmology",
+    "Phone": "669-555-7890",
+    "Email": "ava.lee@vetclinic.com",
+    "YearsOfExperience": 8,
+    "DepartmentID": 5
+  },
+  {
+    "FirstName": "William",
+    "LastName": "Garcia",
+    "Specialisation": "Veterinary Dentistry",
+    "Phone": "415-555-2345",
+    "Email": "william.garcia@vetclinic.com",
+    "YearsOfExperience": 14,
+    "DepartmentID": 6
+  },
+  {
+    "FirstName": "Sophia",
+    "LastName": "Clark",
+    "Specialisation": "Diagnostic Imaging",
+    "Phone": "408-555-6789",
+    "Email": "sophia.clark@vetclinic.com",
+    "YearsOfExperience": 10,
+    "DepartmentID": 7
+  },
+  {
+    "FirstName": "James",
+    "LastName": "Rodriguez",
+    "Specialisation": "Veterinary Rehabilitation",
+    "Phone": "510-555-4321",
+    "Email": "james.rodriguez@vetclinic.com",
+    "YearsOfExperience": 13,
+    "DepartmentID": 8
+  },
+  {
+    "FirstName": "Weiwen",
+    "LastName": "Kong",
+    "Specialisation": "Preventive Care",
+    "Phone": "341-333-8575",
+    "Email": "kwwklmf@vetclinic.com",
+    "YearsOfExperience": 6,
+    "DepartmentID": 10
+  },
+  {
+    "FirstName": "Benjamin",
+    "LastName": "Nguyen",
+    "Specialisation": "Veterinary Nutrition",
+    "Phone": "669-555-1122",
+    "Email": "benjamin.nguyen@vetclinic.com",
+    "YearsOfExperience": 7,
+    "DepartmentID": 9
+  }
+]

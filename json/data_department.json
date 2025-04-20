@@ -1,0 +1,42 @@
+[
+  {
+    "DepartmentName": "Small Animal Internal Medicine",
+    "Location": "1st Floor - Room 101"
+  },
+  {
+    "DepartmentName": "Small Animal Surgery",
+    "Location": "2nd Floor - Surgery Wing"
+  },
+  {
+    "DepartmentName": "Small Animal Emergency and Critical Care",
+    "Location": "Ground Floor - ER Unit"
+  },
+  {
+    "DepartmentName": "Veterinary Dermatology",
+    "Location": "1st Floor - Room 112"
+  },
+  {
+    "DepartmentName": "Veterinary Ophthalmology",
+    "Location": "2nd Floor - Eye Care Center"
+  },
+  {
+    "DepartmentName": "Veterinary Dentistry and Oral Surgery",
+    "Location": "Dental Suite"
+  },
+  {
+    "DepartmentName": "Veterinary Diagnostic Imaging",
+    "Location": "Radiology Lab"
+  },
+  {
+    "DepartmentName": "Veterinary Rehabilitation and Physical Therapy",
+    "Location": "Therapy Center"
+  },
+  {
+    "DepartmentName": "Veterinary Nutrition and Weight Management",
+    "Location": "Wellness Room"
+  },
+  {
+    "DepartmentName": "Preventive Care and Vaccination",
+    "Location": "1st Floor - Clinic A"
+  }
+]

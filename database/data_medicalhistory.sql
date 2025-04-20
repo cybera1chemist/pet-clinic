@@ -1,0 +1,28 @@
+-- Data for MedicalHistory
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (8, 'Ear Infection', '2024-02-24', 'Recovered');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (15, 'Allergy', '2023-03-04', 'Under Observation');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (15, 'Diabetes', '2024-02-09', 'Managed');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (25, 'Fracture', '2023-11-07', 'Managed');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (10, 'Heartworm', '2023-09-25', 'Under Observation');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (26, 'Heartworm', '2023-02-09', 'Managed');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (14, 'Parasites', '2024-02-23', 'Under Observation');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (4, 'Heartworm', '2023-03-04', 'Under Observation');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (21, 'Dental Disease', '2023-12-16', 'Under Observation');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (3, 'Allergy', '2023-07-22', 'Recovered');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (22, 'Dental Disease', '2024-02-01', 'Under Observation');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (25, 'Flu', '2023-10-10', 'Recovered');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (23, 'Parasites', '2024-04-02', 'Managed');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (9, 'Flu', '2024-01-05', 'Under Treatment');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (23, 'Heartworm', '2023-03-13', 'Recovered');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (21, 'Ear Infection', '2023-07-13', 'Recovered');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (12, 'Dental Disease', '2023-11-10', 'Under Treatment');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (21, 'Ear Infection', '2022-11-28', 'Under Treatment');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (8, 'Parasites', '2022-11-30', 'Recovered');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (19, 'Cancer', '2024-01-21', 'Under Observation');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (25, 'Ear Infection', '2023-01-17', 'Under Observation');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (18, 'Heartworm', '2022-10-07', 'Recovered');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (27, 'Fracture', '2023-03-09', 'Recovered');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (20, 'Dental Disease', '2023-05-14', 'Under Observation');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (13, 'Dental Disease', '2022-12-09', 'Recovered');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (3, 'Fracture', '2023-09-26', 'Under Treatment');
+INSERT INTO MedicalHistory (PetID, `Condition`, DateDiagnosed, Status) VALUES (6, 'Flu', '2024-04-16', 'Under Treatment');

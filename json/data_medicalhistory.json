@@ -1,0 +1,164 @@
+[
+  {
+    "PetID": 8,
+    "`Condition`": "Ear Infection",
+    "DateDiagnosed": "2024-02-24",
+    "Status": "Recovered"
+  },
+  {
+    "PetID": 15,
+    "`Condition`": "Allergy",
+    "DateDiagnosed": "2023-03-04",
+    "Status": "Under Observation"
+  },
+  {
+    "PetID": 15,
+    "`Condition`": "Diabetes",
+    "DateDiagnosed": "2024-02-09",
+    "Status": "Managed"
+  },
+  {
+    "PetID": 25,
+    "`Condition`": "Fracture",
+    "DateDiagnosed": "2023-11-07",
+    "Status": "Managed"
+  },
+  {
+    "PetID": 10,
+    "`Condition`": "Heartworm",
+    "DateDiagnosed": "2023-09-25",
+    "Status": "Under Observation"
+  },
+  {
+    "PetID": 26,
+    "`Condition`": "Heartworm",
+    "DateDiagnosed": "2023-02-09",
+    "Status": "Managed"
+  },
+  {
+    "PetID": 14,
+    "`Condition`": "Parasites",
+    "DateDiagnosed": "2024-02-23",
+    "Status": "Under Observation"
+  },
+  {
+    "PetID": 4,
+    "`Condition`": "Heartworm",
+    "DateDiagnosed": "2023-03-04",
+    "Status": "Under Observation"
+  },
+  {
+    "PetID": 21,
+    "`Condition`": "Dental Disease",
+    "DateDiagnosed": "2023-12-16",
+    "Status": "Under Observation"
+  },
+  {
+    "PetID": 3,
+    "`Condition`": "Allergy",
+    "DateDiagnosed": "2023-07-22",
+    "Status": "Recovered"
+  },
+  {
+    "PetID": 22,
+    "`Condition`": "Dental Disease",
+    "DateDiagnosed": "2024-02-01",
+    "Status": "Under Observation"
+  },
+  {
+    "PetID": 25,
+    "`Condition`": "Flu",
+    "DateDiagnosed": "2023-10-10",
+    "Status": "Recovered"
+  },
+  {
+    "PetID": 23,
+    "`Condition`": "Parasites",
+    "DateDiagnosed": "2024-04-02",
+    "Status": "Managed"
+  },
+  {
+    "PetID": 9,
+    "`Condition`": "Flu",
+    "DateDiagnosed": "2024-01-05",
+    "Status": "Under Treatment"
+  },
+  {
+    "PetID": 23,
+    "`Condition`": "Heartworm",
+    "DateDiagnosed": "2023-03-13",
+    "Status": "Recovered"
+  },
+  {
+    "PetID": 21,
+    "`Condition`": "Ear Infection",
+    "DateDiagnosed": "2023-07-13",
+    "Status": "Recovered"
+  },
+  {
+    "PetID": 12,
+    "`Condition`": "Dental Disease",
+    "DateDiagnosed": "2023-11-10",
+    "Status": "Under Treatment"
+  },
+  {
+    "PetID": 21,
+    "`Condition`": "Ear Infection",
+    "DateDiagnosed": "2022-11-28",
+    "Status": "Under Treatment"
+  },
+  {
+    "PetID": 8,
+    "`Condition`": "Parasites",
+    "DateDiagnosed": "2022-11-30",
+    "Status": "Recovered"
+  },
+  {
+    "PetID": 19,
+    "`Condition`": "Cancer",
+    "DateDiagnosed": "2024-01-21",
+    "Status": "Under Observation"
+  },
+  {
+    "PetID": 25,
+    "`Condition`": "Ear Infection",
+    "DateDiagnosed": "2023-01-17",
+    "Status": "Under Observation"
+  },
+  {
+    "PetID": 18,
+    "`Condition`": "Heartworm",
+    "DateDiagnosed": "2022-10-07",
+    "Status": "Recovered"
+  },
+  {
+    "PetID": 27,
+    "`Condition`": "Fracture",
+    "DateDiagnosed": "2023-03-09",
+    "Status": "Recovered"
+  },
+  {
+    "PetID": 20,
+    "`Condition`": "Dental Disease",
+    "DateDiagnosed": "2023-05-14",
+    "Status": "Under Observation"
+  },
+  {
+    "PetID": 13,
+    "`Condition`": "Dental Disease",
+    "DateDiagnosed": "2022-12-09",
+    "Status": "Recovered"
+  },
+  {
+    "PetID": 3,
+    "`Condition`": "Fracture",
+    "DateDiagnosed": "2023-09-26",
+    "Status": "Under Treatment"
+  },
+  {
+    "PetID": 6,
+    "`Condition`": "Flu",
+    "DateDiagnosed": "2024-04-16",
+    "Status": "Under Treatment"
+  }
+]

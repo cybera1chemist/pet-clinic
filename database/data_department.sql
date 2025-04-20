@@ -1,0 +1,10 @@
+INSERT INTO Department (DepartmentName, Location) VALUES ('Small Animal Internal Medicine', '1st Floor - Room 101');
+INSERT INTO Department (DepartmentName, Location) VALUES ('Small Animal Surgery', '2nd Floor - Surgery Wing');
+INSERT INTO Department (DepartmentName, Location) VALUES ('Small Animal Emergency and Critical Care', 'Ground Floor - ER Unit');
+INSERT INTO Department (DepartmentName, Location) VALUES ('Veterinary Dermatology', '1st Floor - Room 112');
+INSERT INTO Department (DepartmentName, Location) VALUES ('Veterinary Ophthalmology', '2nd Floor - Eye Care Center');
+INSERT INTO Department (DepartmentName, Location) VALUES ('Veterinary Dentistry and Oral Surgery', 'Dental Suite');
+INSERT INTO Department (DepartmentName, Location) VALUES ('Veterinary Diagnostic Imaging', 'Radiology Lab');
+INSERT INTO Department (DepartmentName, Location) VALUES ('Veterinary Rehabilitation and Physical Therapy', 'Therapy Center');
+INSERT INTO Department (DepartmentName, Location) VALUES ('Veterinary Nutrition and Weight Management', 'Wellness Room');
+INSERT INTO Department (DepartmentName, Location) VALUES ('Preventive Care and Vaccination', '1st Floor - Clinic A');
