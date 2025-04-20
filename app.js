@@ -1,11 +1,11 @@
 const pages = {
   pets: {
-    dataUrl: "data/data_pets.json",
+    dataUrl: "json/data_pets.json",
     tableId: "pet-table-body",
     fields: ["Name", "Age", "Gender", "Species"],
   },
   doctors: {
-    dataUrl: "data/data_doctors.json",
+    dataUrl: "json/data_doctors.json",
     tableId: "doctor-table-body",
     fields: ["Name", "Department", "StaffID"],
   },
